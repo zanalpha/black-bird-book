@@ -1,5 +1,16 @@
 {
-  "transactions": [],
+  "transactions": [
+    {
+      "type": "pemasukan",
+      "amount": 18150000,
+      "date": "2026-10-18",
+      "category": "Pembayaran Grub",
+      "note": "PEMBAYARAN GRUB SAMPOERNA DLL, KAS SISA DARI SERVER SEBELUMNYA",
+      "id": "6de43528-93ea-4379-913d-d7c06c59b5ea",
+      "createdAt": "2026-10-18T15:57:42.659Z",
+      "updatedAt": "2026-10-18T15:57:42.659Z"
+    }
+  ],
   "deleted": [
     {
       "id": "sync-check-a",
