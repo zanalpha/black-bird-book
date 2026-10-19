@@ -4,6 +4,16 @@
       "type": "pengeluaran",
       "amount": 2000000,
       "date": "2026-10-19",
+      "category": "DANA KOMISARIS UTAMA",
+      "note": "DANA KOMISARIS UTAMA",
+      "id": "2d33ad12-70b0-4a6e-bc14-e323ee734d58",
+      "createdAt": "2026-10-19T09:40:09.970Z",
+      "updatedAt": "2026-10-19T09:40:09.970Z"
+    },
+    {
+      "type": "pengeluaran",
+      "amount": 2000000,
+      "date": "2026-10-19",
       "category": "DANA CEO",
       "note": "DANA CEO",
       "id": "4ff6596d-fa8c-40a0-9d0c-6a985afde11f",
