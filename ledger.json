@@ -1,6 +1,26 @@
 {
   "transactions": [
     {
+      "type": "pengeluaran",
+      "amount": 2000000,
+      "date": "2026-10-19",
+      "category": "DANA CEO",
+      "note": "DANA CEO",
+      "id": "4ff6596d-fa8c-40a0-9d0c-6a985afde11f",
+      "createdAt": "2026-10-19T04:31:28.201Z",
+      "updatedAt": "2026-10-19T04:31:28.201Z"
+    },
+    {
+      "type": "pengeluaran",
+      "amount": 1350000,
+      "date": "2026-10-19",
+      "category": "PEMBAYARAN LISTRIK SAFEHOUSE",
+      "note": "PEMBAYARAN LISTRIK SAFEHOUSE 2",
+      "id": "bf34f500-5007-455c-b559-096a27876f20",
+      "createdAt": "2026-10-19T03:08:05.365Z",
+      "updatedAt": "2026-10-19T03:08:05.365Z"
+    },
+    {
       "type": "pemasukan",
       "amount": 18150000,
       "date": "2026-10-18",
